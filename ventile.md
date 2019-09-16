@@ -2,15 +2,15 @@
 
 
 ## Überströmventile
-* H1: lässt sich nicht richtig einstellen, verstellbarer Schlüssel benötigt -> position unbekannt
+* H1: lässt sich nicht richtig einstellen, verstellbarer Schlüssel benötigt -> position unbekannt, nachmessen
 * H2: X
 * H3: ? -> Agatha -> Ventil nicht gefunden, sollte nochmal gesucht werden
 * H4: X
 * H6: (entfaellt)
 * H7: ? Neli, Plamen -> Ventil nicht gefunden, sollte nochmal gesucht werden
 * H8: ? Liane -> Ventil nicht erreichbar, Revisionsklappe muss gesetzt werden
-* H9: X 
-* H10: X
+* H9: X halb offen
+* H10: -> nicht gefunden
 
 ## blaue Ventile
 * 2-25: 0.3
@@ -23,8 +23,8 @@
 * 2-8: kein Ventil gefunden -> HK und NHR einregulieren
 * 2-18: 0.8 ?
 * 2-14: 0.3
-* 2-31: 
-* 2-6: abgebrochen, 0.8 -> HK und NHR einregulieren
+* 2-31: ?
+* 2-6: 0.3
 * 2-4: 4.9, nicht erreichbar, Revisionsklappe muss gesetzt werden
 * Gem LHR: 0.2
 * 2-1: kein Ventil gefunden -> HK und NHR einregulieren
@@ -44,3 +44,8 @@
 * 2-18: 2
 * 2-14: 1.8
 * 2-29: 1.5
+
+# Ost
+
+## Stränge
+
